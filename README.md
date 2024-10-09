@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋 <a href="https://www.linkedin.com/in/jakub-sękowski-6296b9330/"> Let's Connect! 💬</a> </h1>
+
+<h2 align="center">
+ I'm a passionate Java Developer.
+ <br>
+</h2>
 
 <!--
 **QbaSekowski/QbaSekowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

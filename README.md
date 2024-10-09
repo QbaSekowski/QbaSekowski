@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there 👋 <a href="https://www.linkedin.com/in/jakub-sękowski-6296b9330/"> Let's Connect! 💬</a> </h1>
+<h1 align="center"> Welcome 👋 <a href="https://www.linkedin.com/in/jakub-sękowski-6296b9330/"> Let's Connect! 💬</a> </h1>
 
 <h2 align="center">
- I'm a passionate Java Developer.
+ I am a Java Developer hoping to create new, interesting projects. I invite you to my github.
  <br>
 </h2>
 

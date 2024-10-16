@@ -9,6 +9,12 @@
  <br>
  In my free time I do computer graphics.
  <br>
+ <br>
+ - 💼 Java Developer
+ - 🌱 Always eager to learn and stay updated with the latest technology
+ - 🤝 Open to collaboration and solving challenging problems
+ - 🌐 English (CAE - Advanced)
+ - 🌐 Polish (native)
 
 ## 📫 Drop me a message if you need anything!
 

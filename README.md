@@ -1,12 +1,14 @@
-<h1 align="center"> Welcome 👋 I'm Jakub</h1>
+# Welcome 👋 I'm Jakub
 
-<h3 align="center">
+## About me
  Java back end developer looking for a new job, experienced in working both with Java Core & Frameworks (Spring, Hibernate).
+ <br>
  Well-familiar with OOP fundamentals. 
+ <br>
  I am also interested in C# and .NET.
+ <br>
  In my free time I do computer graphics.
  <br>
-</h3>
 
 ## 📫 Drop me a message if you need anything!
 

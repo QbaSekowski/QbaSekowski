@@ -10,7 +10,7 @@
 
 ## 📫 Drop me a message if you need anything!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/kukulakacper/](https://www.linkedin.com/in/jakub-sękowski-6296b9330/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakub-sękowski-6296b9330/)
 - 📧 sekowskijakub@gmail.com
 <!--
 **QbaSekowski/QbaSekowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

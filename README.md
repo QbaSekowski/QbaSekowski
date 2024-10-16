@@ -1,7 +1,7 @@
 # Welcome 👋 I'm Jakub
 
 ## About me
- Java back end developer looking for a new job, experienced in working both with Java Core & Frameworks (Spring, Hibernate).
+ Java back end developer, experienced in working both with Java Core & Frameworks (Spring, Hibernate).
  <br>
  Well-familiar with OOP fundamentals. 
  <br>

@@ -1,10 +1,16 @@
-<h1 align="center"> Welcome 👋 <a href="https://www.linkedin.com/in/jakub-sękowski-6296b9330/"> Let's Connect! 💬</a> </h1>
+<h1 align="center"> Welcome 👋 I'm Jakub<a href="https://www.linkedin.com/in/jakub-sękowski-6296b9330/"> Let's Connect! 💬</a> </h1>
 
 <h2 align="center">
- I am a Java Developer hoping to create new, interesting projects. I invite you to my github.
+ Java back end developer looking for a new job, experienced in working both with Java Core & Frameworks (Spring, Hibernate). Well-familiar with OOP fundamentals. 
+ I am also interested in C# and .NET.
+ In my free time I do computer graphics.
  <br>
 </h2>
 
+## 📫 Drop me a message if you need anything!
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/kukulakacper/](https://www.linkedin.com/in/jakub-sękowski-6296b9330/))
+- 📧 sekowskijakub@gmail.com
 <!--
 **QbaSekowski/QbaSekowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,7 +17,7 @@
 
 ## 🚀 Projects & Contributions
 - [Book Store](https://github.com/QbaSekowski/spring-book-app) - the "Book Store" project is an online platform designed for book enthusiasts. Users can browse an extensive selection of books in various genres, read descriptions, learn about authors and find prices.
-- [Book Store](https://github.com/QbaSekowski/hibernate-order-hw) - an online app for managing tickets, users, orders and movies in cinema.
+- [Mini Cinema](https://github.com/QbaSekowski/hibernate-order-hw) - an online app for managing tickets, users, orders and movies in cinema.
 ...and many more.
 
 ## 📫 Drop me a message if you need anything!

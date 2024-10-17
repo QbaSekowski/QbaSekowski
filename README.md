@@ -15,8 +15,12 @@
  - 🌐 English (CAE - Advanced)
  - 🌐 Polish (native)
 
-## 📫 Drop me a message if you need anything!
+## 🚀 Projects & Contributions
+- [Book Store](https://github.com/QbaSekowski/spring-book-app) - the "Book Store" project is an online platform designed for book enthusiasts. Users can browse an extensive selection of books in various genres, read descriptions, learn about authors and find prices.
+- [Book Store](https://github.com/QbaSekowski/hibernate-order-hw) - an online app for managing tickets, users, orders and movies in cinema.
+...and many more.
 
+## 📫 Drop me a message if you need anything!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-sękowski-6296b9330/)
 - 📧 sekowskijakub@gmail.com
 <!--

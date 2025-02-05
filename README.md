@@ -16,6 +16,7 @@
  - 🌐 Polish (native)
 
 ## 🚀 Projects & Contributions
+- [Task Management](https://github.com/QbaSekowski/task-management-app) - manage tasks and projects effectively through a web-based application. This system enables task creation, assignment, progress tracking, and completion.
 - [Book Store](https://github.com/QbaSekowski/spring-book-app) - the "Book Store" project is an online platform designed for book enthusiasts. Users can browse an extensive selection of books in various genres, read descriptions, learn about authors and find prices.
 - [Mini Cinema](https://github.com/QbaSekowski/hibernate-order-hw) - an online app for managing tickets, users, orders and movies in cinema.
 ...and many more.

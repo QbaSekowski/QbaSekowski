@@ -1,7 +1,7 @@
 # Welcome 👋 I'm Jakub
 
 ## About me
- Java back end developer, experienced in working both with Java Core & Frameworks (Spring, Hibernate).
+ Copilot Studio and Java back end developer, experienced in working both with Java Core & Frameworks (Spring, Hibernate).
  <br>
  Well-familiar with OOP fundamentals. 
  <br>
@@ -9,7 +9,7 @@
  <br>
  In my free time I do computer graphics.
  <br>
- - 💼 Java Developer
+ - 💼 Copilot Studio & Java Developer
  - 🌱 Always eager to learn and stay updated with the latest technology
  - 🤝 Open to collaboration and solving challenging problems
  - 🌐 English (CAE - Advanced)
